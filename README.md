@@ -1,0 +1,5 @@
+Frontend: React.js + TypeScript (ou Vue.js 3)
+Backend: Node.js + Express (ou Next.js API Routes)
+Banco de Dados: PostgreSQL (relacional para catálogo) + MongoDB (para sessões)
+Cache: Redis (para dados de compatibilidade)
+Hosting: Vercel/Netlify (frontend) + AWS/Google Cloud (backend)
